@@ -15,7 +15,7 @@ async def async_generator() -> None:
     and yield a random number
 
     Returns:
-        no returrs
+        no returns
     """
     for i in range(10):
         await asyncio.sleep(1)

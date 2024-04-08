@@ -1,4 +1,5 @@
-utilities for github org client.
+#!/usr/bin/env python3
+"""Generic utilities for github org client.
 """
 import requests
 from functools import wraps
